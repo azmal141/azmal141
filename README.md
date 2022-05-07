@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @azmal141
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning devops.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in 'Coding'.
+- 🌱 I’m currently learning 'Devops'.
+- 💞️ I’m looking to collaborate on Great projects.
 - 📫 How to reach me ...
 
 <!---
